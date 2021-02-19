@@ -1,6 +1,6 @@
 # Introducción-a-finanzas-cuantitativas-con-R
 
-Uno de los mas iportantes desafíos  para quienes buscan introducirse en el análisis bursatil es  saber por donde empezar o mejor dicho en que activos centrarse.
+Uno de los mas importantes desafíos  para quienes buscan introducirse en el análisis bursatil es  saber por donde empezar o mejor dicho en que activos centrarse.
 Las preguntas ¿Qué acciones tengo que mirar? o ¿qué sector me conviene operar? pueden resumir esta situación.
 En este sentido la visualización y manipulación de la información disponible es clave para alcanzar los mejores resultados posibles.
 Podemos resumir nuestra propuesta en dos secciones: La primera consiste en la presentación resumida de la "situación golbal del mercado". Para lograrlo presentaremos la evolución de los índices,activos y commodities más relevantes: SP500,Nasdaq, Crude Oil, Gold, Vix,BTC combinadas en una sola de manera de favorecer visualemente el análisis comparativo de cada activo. Especfícamente volcaremos la información en un docuemento con formato pdf.  
