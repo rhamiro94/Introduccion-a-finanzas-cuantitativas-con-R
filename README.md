@@ -1,4 +1,4 @@
-# Introduccion-a-finanzas-cuantitativas-con-R
+# Introducción-a-finanzas-cuantitativas-con-R
 
 Uno de los mas iportantes desafíos  para quienes buscan introducirse en el análisis bursatil es  saber por donde empezar o mejor dicho en que activos centrarse.
 Las preguntas ¿Qué acciones tengo que mirar? o ¿qué sector me conviene operar? pueden resumir esta situación.
