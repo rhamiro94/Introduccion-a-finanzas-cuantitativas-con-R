@@ -56,13 +56,13 @@ Bitcoin <- get.hist.quote(instrument = "GBTC",
 
 global <- merge(SP500,NASDAQ,Volatilidad,Oro,Petroleo,Bitcoin,  all = FALSE) 
 
-```
+
 Renombramos los indices y activos
 names(global)<-c("SP500", "NASDAQ", "Volatilidad", "Oro", "Petroleo", "Bitcoin")
 plot(global, main=" ", col="darkgreen", xlab="Fecha")
 title(main="Evolución global")
 
-
+```
 De esa manera obtenemos de manera organizada la evolución del cierre ajustado de cada activo durante los últimos seis meses
 
 ## Análisis de ETFS
@@ -128,4 +128,6 @@ title(main="Evolución Etfs")
 
 De esta manera obtenemos de manera más prolija que en la entrega anterior los documentos que conformarán nuestra hoja de ruta en nuestro recorrido por los distintos activos mencionados.
 Para finalizaar debemos mencionar que si bien entendemos las potenciales limitaciones de este segundo script consideramos que permite mejorar algunas incomidades de la primer entrega.
+En la tercer parte agregaremos un análisis con el rendimiento ajustado de estos activos e índices.
+
 © 2021 GitHub, Inc.
